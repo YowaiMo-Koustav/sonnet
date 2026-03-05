@@ -1,0 +1,7 @@
+project_id = "kyqpvqmuazaundmzdxin"
+
+[functions.manage-profile]
+verify_jwt = false
+
+[functions.match-scholarships]
+verify_jwt = false
